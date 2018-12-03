@@ -1,6 +1,6 @@
 # Gekko Online Test
 ## Task
-1. Use Python/BeautifulSoup to set up a lawsuit database [here](https://dataplatform.cloud.ibm.com/).
+1. Use Python/BeautifulSoup to set up a lawsuit database [here](https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?L1=FA#H1).
 2. Each court has subcategories.
 3. Each subcategory contains different result of lawsuit, which each case documented by date and case number.
 4. Each category and the corresponding content in it shall be recorded.
